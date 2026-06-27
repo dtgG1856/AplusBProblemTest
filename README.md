@@ -14,15 +14,6 @@
 3. 启动后端: `server.exe`
 4. 浏览器打开 `index.html`
 
-## 项目结构
-\`\`\`
-aplusb/
-├── server.cpp   ← C++ 后端源码
-├── index.html   ← 前端页面
-├── httplib.h    ← HTTP 库（需自行下载）
-└── .gitignore   ← 忽略 server.exe
-\`\`\`
-
 ## 项目意义
 这是 OJ 评测系统的最小化原型，验证了 C++ 作为 Web 后端的可行性。
 后续计划扩展为完整的在线判题系统。
